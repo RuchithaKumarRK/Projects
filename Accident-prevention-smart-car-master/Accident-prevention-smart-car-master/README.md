@@ -1,4 +1,5 @@
-# Accident
+# Accident prevention smart car master
+
 
 This project strives to avoid few reasons that cause road accidents by a four-wheeled vehicle. Such as Heart attack, drowsiness, high alcohol consumption, the sudden intervention of living objects. In addition to this also a Smart DL(Driving license) used to start the car and an application to monitor antitheft features.
 
